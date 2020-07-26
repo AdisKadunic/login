@@ -1,0 +1,34 @@
+html *{
+	font-family: 'Fjalla One', sans-serif;
+}
+#top-nav-bar,li{
+	font-family: 'Fjalla One', sans-serif;
+	display: inline;
+	margin: 7px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;	
+}
+#top-nav-bar,a{
+    color: #fff;
+    text-decoration: none;
+}
+#top-nav-bar,a:hover{
+	color: black;
+}
+#top-nav-bar,ul{
+	list-style-type: none;
+    overflow: hidden;
+	background-color: #529993;
+	
+	
+    margin: auto;
+	border-color: black;
+	border-bottom: solid;
+    border-top: solid;
+}
+ul{
+  width: auto;
+  margin-left: 130px;
+  margin-right: 85px;
+}

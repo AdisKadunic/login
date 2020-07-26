@@ -1,0 +1,7 @@
+<?php 
+   if(isset($_GET["newpwd"])) {
+      if($_GET["newpawd"] == "passwordupdated") {
+         echo '<p class="signupsuccess">your password has ben restarted</p>';
+      }
+   }
+   ?>
